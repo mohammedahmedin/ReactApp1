@@ -9,8 +9,13 @@ items-center bg-white h-screen font-mono py-20;
 }
 
 
-.menu-card2{
+.menu-card{
 
     @apply flex flex-col justify-center
-    items-center bg-white h-screen font-mono py-20
+    items-center bg-white h-screen font-mono py-20;
+}
+
+.center-content{
+
+    @apply flex flex-col justify-center items-center;
 }
